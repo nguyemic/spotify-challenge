@@ -1,3 +1,38 @@
 body {
-  padding:10px;
+  color: white;
+
 }
+
+h1{
+	vertical-align: middle;
+	text-align: center;
+	font-size: 100px;
+	font-family: sans-serif;
+	color: white;
+	padding-bottom: 10px;
+}
+
+#header {
+	background-image: url('http://cdn01.wallconvert.com/_media/wallpapers_1366x768/1/2/mac-gadgets-on-a-desk-16521.png');
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-position-y: 90%; 
+	min-height: 400px;
+}
+
+#search{
+	padding: 10px;
+	text-align: center
+}
+
+#cover{
+	padding: 1cm;
+	border-style:solid;
+	opacity:2em;
+}
+
+#results{
+	background-color: light grey;
+}
+
+#
