@@ -12,12 +12,17 @@ h1{
 	padding-bottom: 10px;
 }
 
+h6{
+	padding-bottom: 10px;
+}
+
 #header {
 	background-image: url('http://cdn01.wallconvert.com/_media/wallpapers_1366x768/1/2/mac-gadgets-on-a-desk-16521.png');
 	background-repeat: no-repeat;
 	background-size: cover;
 	background-position-y: 90%; 
 	min-height: 400px;
+	text-align: center;
 }
 
 #search{
@@ -26,13 +31,14 @@ h1{
 }
 
 #cover{
-	padding: 1cm;
+	padding:1cm;
 	border-style:solid;
 	opacity:2em;
 }
 
-#results{
-	background-color: light grey;
+p{
+	font-style: italic;
 }
 
-#
+
+
