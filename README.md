@@ -7,6 +7,7 @@ My app allows a user to query a song or artist and allows them to preview the so
 
 What is the URL of this project on your student web-server?
 
+http://students.washington.edu/nguyemic/info343/spotify-challenge/
 
 Did you receive help from any other sources (classmates, etc.)? If so, please list who.
 
